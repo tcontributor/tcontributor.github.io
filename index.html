@@ -3,12 +3,24 @@
 
   <head>
 
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-126925050-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tezos Panda - Delegation Service</title>
+    <title>Tezos Panda Delegation Service</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +51,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#page-top">Home</a>
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#delegate">Delegate</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#faq">FAQ</a>
             </li>
             <li class="nav-item mx-0 mx-lg-1">
               <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
@@ -53,77 +68,225 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead bg-primary text-white text-center">
-      <div class="container">
-        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-        <h1 class="text-uppercase mb-0">Tezos Panda</h1>
-        <hr class="star-light">
-        <h2 class="font-weight-light mb-0">Tezos Delegation Service</h2>
-        <div class="text-center mt-4">
-           <!h4 class="font-weight-light mb-0">Delegation Address:</h4>
-           <p>tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe</p>
-        </div>
-        <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-light" href="http://tzscan.io/tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe?default=baking">
+    <header class="masthead text-center">
+      <div class="text-center container">
+        <img class="img-fluid mb-4 d-block mx-auto" src="img/profile.png" alt="">
+        <h1 class="mb-4">Reliability. Security. Profit.</h1>
+        <!--hr class="star-dark mb-0"-->
+      </div>
+    </header>
+
+    <!-- Delegate Section -->
+    <section class="delegate" id="delegate">
+      <div class="text-center container">
+        <h2 class="mb-4">Delegate to our address</h2>
+		<p class="text-primary">tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe</p>
+        <div class="text-center mt-4 mb-4">
+          <a class="btn btn-xl btn-outline-dark" href="http://tzscan.io/tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe?default=baking" target="_blank">
             View at TzScan
           </a>
         </div>
+        <div class="row">
+          <div class="col-md-4 mb-4 mb-lg-0">
+            <p class="btn btn-outline-dark btn-social text-center rounded-circle">
+              <i class="fa fa-fw fa-percentage"></i>
+            </p>
+            <h4 class="mb-4">Fee Structure</h4>
+            <p class="lead mb-0">We take a 10% dynamic fee</p>
+          </div>
+          <div class="col-md-4 mb-4 mb-lg-0">
+            <p class="btn btn-outline-dark btn-social text-center rounded-circle">
+              <i class="fa fa-fw fa-calendar-alt"></i>
+            </p>
+            <h4 class="mb-4">Payout schedule</h4>
+            <p class="lead mb-0">We pay the rewards every cycle</p>
+          </div>
+          <div class="col-md-4 mb-4 mb-lg-0">
+            <p class="btn btn-outline-dark btn-social text-center rounded-circle">
+              <i class="fa fa-fw fa-greater-than-equal"></i>
+            </p>
+            <h4 class="mb-4">Payout threshold</h4>
+            <p class="lead mb-0">Minimum payout is 1 XTZ</p>
+            <a>If the reward for a given period is less than this amount, it will be counted in the next period</a>
+          </div>
+        </div>
+        <hr class="star-dark mb-0">
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+  <section class="faq" id="faq">
+    <div class="container">
+      <h2 class="text-center mb-4">Frequently Asked Questions</h2>
+      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading1">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                Is delegation to Tezos Panda safe?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+            <div class="panel-body lead px-3 mb-3">
+              <p>Yes. You are only assigning your baking rights to Tezos Panda as delegator. You are not giving us your XTZs and we do not require your private keys. With reliable delegation service the only risk is the security of your private keys, same as with no delegation at all.</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading2">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                How much is your fee?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+            <div class="panel-body lead px-3 mb-3">
+              <p>Our fee is 10%. We are using so called "dynamic" payout model which means that you get whatever you earn with your delegation minus our fee. Currently not all XTZ owners use delegation therefore current earnings are greater than 5.5% inflation rate in Tezos network.</p>
+              <p>Your earnings will look like this:</p>
+			  <p>(Block Rewards + Endorsement Rewards + Block Fees)
+			    <br>* (100% - fee) * (Your Delegated Balance / Total Staking Balance)</p>
+			  <p>Soon we’ll introduce a dashboard where you will be able to track your rewards.</p>
+            </div>
+          </div>
+        </div>
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading3">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                How do I delegate to Tezos Panda?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+            <div class="panel-body lead px-3 mb-3">
+              <p>You can do it using an online wallet by <a href="https://www.tezos.community/guides/2018/8/4/video-how-to-activate-your-xtz-and-create-a-fundraiser-wallet" target="_blank">following this video instructions</a>.</p>
+              <p>Advanced users can prefer more secured delegation method by using the Tezos command line and Ledger Nano S wallet.
+			    <br>You can find <a href="https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md#delegation)" target="_blank">detailed instructions here</a>.
+			    <br><code>./tezos-client set delegate for your_KT1_address to tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe --fee 0.0</code></p>
+              <p>Don't hesitate <a href="#contact" target="_blank">to contact our team</a> if you need help on the delegation process.</>
+            </div>
+          </div>
+        </div>
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading4">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                Can I bake on my own without delegating?</a></h4>
+          </div>
+          <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+            <div class="panel-body lead px-3 mb-3">
+              <p>Yes, it is possible to be a baker if your stake is greater than 10&nbsp;000 XTZ.</p>
+			  <p>However, running a baking node requires technical skills, appropiate hardware infrastructure and security configuration. </p>
+			  <p>And with a large stake you probably would not want to associate your real IP address with Tezos node address. You will also be required to provide a 8.25% Tezos security bond to follow the Tezos baking rules. You can lose this bond in case of baking issues.</p>
+			  <p>By delegating your XTZ to Tezos Panda you will still have full control of your XTZ’s without the need of running the node on your own.</p>
+			  <p>You can also review this article for more details on the matter: <a href="https://medium.com/@tezos_91823/benefits-and-risks-of-home-baking-a631c9ca745" target="_blank">Benefits and Risks of Home Baking</a>.</p>
+			</div>
+          </div>
+        </div>
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading5">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
+                Are my XTZ locked during delegation?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+            <div class="panel-body lead px-3 mb-3">
+              <p>No, your tokens remain in your wallet. You’re just giving Tezos Panda permission to bake for you. At any time you can spend or transfer your funds. Also you can always change your delegate.</p>
+            </div>
+          </div>
+        </div>
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading6">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                When my staking rewards are being paid?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+            <div class="panel-body lead px-3 mb-3">
+              <p>Tezos Panda schedule is to pay out delegation awards every cycle when rewards are delivered to the baker.</p>
+			  <p>With the current economic rules of the Tezos protocol, baking power is calculated in the snapshot of N-7 cycle. For the next 5 cycles rewards are locked by Tezos. So the first payment will be done after 12 cycles following delegation cycle.</p>
+			  <p>If at some point you will decide to switch to the other delegation service you’ll receive from us payments for all cycles you were with Tezos Panda.</p>
+            </div>
+          </div>
+        </div>
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading7">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
+                Do you have a minimum payout threshold?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
+            <div class="panel-body lead px-3 mb-3">
+              <p>Yes, currently the minimum payment threshold is set at 1 XTZ. If the reward for a given period is less than this amount, it will be accounted in the next period. This clause is to prevent possible spam low-notional transactions when administrative costs and our transfer fee make such delegations economically unprofitable.</p>
+            </div>
+          </div>
+        </div>
+        
+		<div class="panel panel-default">
+          <div class="panel-heading p-3 mb-3" role="tab" id="heading8">
+            <h4 class="panel-title font-italic">
+              <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="true" aria-controls="collapse8">
+                How can I get news on the Tezos Panda delegation service?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
+            <div class="panel-body lead px-3 mb-3">
+              <p>Please follow us on <a href="https://twitter.com/tezospanda" target="_blank">Twitter</a> to get news and updates on the service.</p>
+            </div>
+          </div>
+        </div>
 
       </div>
-    </header>
+      <hr class="star-dark mb-0">
+    </div>
+  </section>
 
     <!-- About Section -->
     <section class="about" id="about">
       <div class="text-center container">
-        <h2 class="text-uppercase text-secondary mb-0">About</h2>
-        <hr class="star-dark mb-5">
-      <!--div class="container"-->
-        <div class="row">
-          <div class="col-md-4 mb-5 mb-lg-0">
-            <p class="btn btn-outline-dark btn-social text-center rounded-circle">
-              <i class="fa fa-fw fa-percentage"></i>
-            </p>
-            <h4 class="text-uppercase mb-4">Fee Structure</h4>
-            <p class="lead mb-0">We take a 10% dynamic fee.</p>
-          </div>
-          <div class="col-md-4 mb-5 mb-lg-0">
-            <p class="btn btn-outline-dark btn-social text-center rounded-circle">
-              <i class="fa fa-fw fa-calendar-alt"></i>
-            </p>
-            <h4 class="text-uppercase mb-4">Payout schedule</h4>
-            <p class="lead mb-0">We pay the rewards every 3 cycles.</p>
-          </div>
-          <div class="col-md-4 mb-5 mb-lg-0">
-            <p class="btn btn-outline-dark btn-social text-center rounded-circle">
-              <i class="fa fa-fw fa-greater-than-equal"></i>
-            </p>
-            <h4 class="text-uppercase mb-4">Payout threshold</h4>
-            <p class="lead mb-0">Minimum payout is 1 tez.</p>
-            <p >If the reward for a given period is less than this amount, it will be counted in the next period.</p>
-          </div>
+        <h2 class="mb-4">About us</h2>
+            <p class="lead">Tezos Panda is the team of professionals with IT / Investment banking background and early adopters of crypto world.<br>We concentrate on providing a reliable and secure delegation service.</p>
+            <p class="lead">Our goal is to contribute to the Tezos ecosystem and transform delegation into something transparent, simple and profitable.<br>You can use our delegation service as an alternative to running your own node.</p>
+			<hr class="star-dark mb-0">
+      </div>
     </section>
 
     <!-- Contact Section -->
-    <section class="bg-primary text-white mb-0" id="contact">
-      <div class="container">
-        <h2 class="text-center text-uppercase text-white">Contact</h2>
-        <hr class="star-light mb-5">
+    <section class="contact" id="contact">
+      <div class="text-center container">
+        <h2 class="mb-4">Contact with us</h2>
           <div class="text-center">
-            <h4 class="text-uppercase mb-4">Around the Web</h4>
+            <p class="lead">Around the web</p>
             <ul class="list-inline mb-0">
               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.reddit.com/r/tezos/">
-                  <i class="fab fa-fw fa-reddit-alien"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="mailto:@gmail.com">
+                <a class="btn btn-outline-dark btn-social text-center rounded-circle" href="mailto:tezospanda@gmail.com">
                   <i class="fa fa-fw fa-envelope"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/">
+                <a class="btn btn-outline-dark btn-social text-center rounded-circle" href="https://twitter.com/tezospanda" target="_blank">
                   <i class="fab fa-fw fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a class="btn btn-outline-dark btn-social text-center rounded-circle" href="https://www.reddit.com/user/tezospanda" target="_blank">
+                  <i class="fab fa-fw fa-reddit-alien"></i>
                 </a>
               </li>
             </ul>
@@ -131,6 +294,7 @@
       </div>
     </section>
 
+    <!-- Footer -->
     <div class="copyright py-4 text-center text-white">
       <div class="container">
         <small>Copyright &copy; Tezos Panda 2018</small>
