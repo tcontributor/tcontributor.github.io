@@ -90,9 +90,12 @@ ga('send', 'pageview');
     <!-- Delegate Section -->
     <section class="delegate" id="delegate">
       <div class="text-center container">
-	<h2 class="mb-4">Delegation with Tezos Panda</h2>
-  	<h5 class="text-success">We are pleased to accept new delegators.</h5>
-        <p class="text-primary">tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe</p>
+    <h2 class="mb-4">Delegation with Tezos Panda</h2>
+      <!-- h5 class="text-success">We are pleased to accept new delegators.</h5 -->
+        <h5 class="text-danger">All new delegations starting from Cycle 58 can't count for rewards.</h5>
+        <h5 class="text-success">All delegations made before cycle 58 are under our protection and will continue to receive rewards.</h5>
+        <p class="lead">Please see our <a href="#faq" target="_blank">FAQ</a> for details.<br><br></p>
+        <!-- p class="text-primary">tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe</p -->
         <div class="text-center mt-4 mb-4">
           <a class="btn btn-xl btn-outline-dark" href="http://tzscan.io/tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe?default=baking" target="_blank">
             View at TzScan
@@ -164,8 +167,8 @@ ga('send', 'pageview');
     <div class="container">
       <h2 class="text-center mb-4">Frequently Asked Questions</h2>
       <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-	      
-	 <div class="panel panel-default">
+          
+     <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading8">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="true" aria-controls="collapse8">
@@ -175,13 +178,14 @@ ga('send', 'pageview');
           </div>
           <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
             <div class="panel-body lead px-3 mb-3">
-              <p>To avoid possible overdelegation after cycle 65 and to benefit our current delegators, we will stop considering new delegates a little earlier than the overdelegation level indicated by <a href="https://mytezosbaker.com/" target="_blank">MyTezosBaker</a>.</p>
-	      <p>Cycle number, when we stop recording new delegations, will be announced at the start page of this website.</p>
+              <p>To avoid possible overdelegation after cycle 65 and to benefit our current delegators, we are accepting new delegations only until Cycle 57 end.</p>
+              <p>All new delegations starting from Cycle 58 will be added to wait list – i.e. new delegators starting from Cycle 58 will be added to payouts white list if someone of large current delegators will leave Tezos Panda.</p>
+              <p>All our current delegators are protected and are eligible for ongoing rewards in the future cycles.</p>
             </div>
           </div>
         </div>
         
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading1">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
@@ -208,13 +212,13 @@ ga('send', 'pageview');
             <div class="panel-body lead px-3 mb-3">
               <p>Our fee is 10%. We are using so called "dynamic" payout model which means that you get whatever you earn with your delegation minus our fee. Currently not all XTZ owners use delegation therefore current earnings are greater than 5.5% inflation rate in Tezos network.</p>
               <p>Your earnings will look like this:</p>
-			  <p>(Block Rewards + Endorsement Rewards + Block Fees)
-			    <br>* (100% - fee) * (Your Delegated Balance / Total Staking Balance)</p>
+              <p>(Block Rewards + Endorsement Rewards + Block Fees)
+                <br>* (100% - fee) * (Your Delegated Balance / Total Staking Balance)</p>
             </div>
           </div>
         </div>
         
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading3">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
@@ -226,21 +230,21 @@ ga('send', 'pageview');
             <div class="panel-body lead px-3 mb-3">
                <p>You can do it using TezBox online wallet following this <a href="delegate-with-tezbox.html" target="_blank">instructions</a>. TezBox is a community developed wallet for the Tezos network that is cross-platform, open-source and decentralized. 
                </p>
-	       <p>Tezbox recently developed GUI support for Ledger Nano S wallet! If you do not have command line experience, but still want to store your XTZ on your hardware wallet, you can delegate to us with the  <a href="https://www.youtube.com/watch?v=cYZtfHv4rHU" target="_blank">Tezbox GUI</a>.
-	       </p>
+           <p>Tezbox recently developed GUI support for Ledger Nano S wallet! If you do not have command line experience, but still want to store your XTZ on your hardware wallet, you can delegate to us with the  <a href="https://www.youtube.com/watch?v=cYZtfHv4rHU" target="_blank">Tezbox GUI</a>.
+           </p>
                <p>Another option is to <a href="https://youtu.be/C6-lEA3HAec" target="_blank">delegate with Galleon software wallet</a> for the Tezos blockchain, which runs on Cryptonomic infrastructure.
-	       </p>
-	       <p>You can also use Magnum multi-currency decentralized web Wallet. Follow this simple <a href="https://medium.com/@corp_92607/how-to-delegate-tezzies-xtz-with-magnum-wallet-in-2-steps-75b009fc0388" target="_blank">instructions to delegate Tezzies in 2 steps</a>.
-	       </p>
+           </p>
+           <p>You can also use Magnum multi-currency decentralized web Wallet. Follow this simple <a href="https://medium.com/@corp_92607/how-to-delegate-tezzies-xtz-with-magnum-wallet-in-2-steps-75b009fc0388" target="_blank">instructions to delegate Tezzies in 2 steps</a>.
+           </p>
               <p>Advanced users can prefer delegation using Tezos command line. You can find detailed instructions <a href="https://github.com/obsidiansystems/ledger-app-tezos/blob/master/README.md#delegation)" target="_blank">here</a>.
-			    <!--br><code>./tezos-client set delegate for your_KT1_address to tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe --fee 0.0</code-->
+                <!--br><code>./tezos-client set delegate for your_KT1_address to tz1PeZx7FXy7QRuMREGXGxeipb24RsMMzUNe --fee 0.0</code-->
               </p>
               <p>Don't hesitate to <a href="#contact" target="_blank">contact us</a> if you need help on the delegation process.</>
             </div>
           </div>
         </div>
-			
-	<div class="panel panel-default">
+            
+    <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading4">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
@@ -249,12 +253,12 @@ ga('send', 'pageview');
           <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
             <div class="panel-body lead px-3 mb-3">
               <p>This is for security, and to ensure stable work of our delegation service without any intrusions into it.</p>
-	      <p>We understand that delegators would feel safer with our identity and photos posted on the web. But in case of possible physical attacks on Tezos Panda due to the revealed information our delegation service work can be interrupted. Baking will stop and that will also affect our clients.</p>
-	  </div>
+          <p>We understand that delegators would feel safer with our identity and photos posted on the web. But in case of possible physical attacks on Tezos Panda due to the revealed information our delegation service work can be interrupted. Baking will stop and that will also affect our clients.</p>
+      </div>
           </div>
         </div>        
         
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading4">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
@@ -263,15 +267,15 @@ ga('send', 'pageview');
           <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
             <div class="panel-body lead px-3 mb-3">
               <p>Yes, it is possible to be a baker if your stake is greater than 10&nbsp;000 XTZ.</p>
-			  <p>However, running a baking node requires technical skills, appropiate hardware infrastructure and security configuration. </p>
-			  <p>And with a large stake you probably would not want to associate your real IP address with Tezos node address. You will also be required to provide a 8.25% Tezos security bond to follow the Tezos baking rules. You can lose this bond in case of baking issues.</p>
-			  <p>By delegating your XTZ to Tezos Panda you will still have full control of your XTZ’s without the need of running the node on your own.</p>
-			  <p>You can also review this article for more details on the matter: <a href="https://medium.com/@tezos_91823/benefits-and-risks-of-home-baking-a631c9ca745" target="_blank">Benefits and Risks of Home Baking</a>.</p>
-			</div>
+              <p>However, running a baking node requires technical skills, appropiate hardware infrastructure and security configuration. </p>
+              <p>And with a large stake you probably would not want to associate your real IP address with Tezos node address. You will also be required to provide a 8.25% Tezos security bond to follow the Tezos baking rules. You can lose this bond in case of baking issues.</p>
+              <p>By delegating your XTZ to Tezos Panda you will still have full control of your XTZ’s without the need of running the node on your own.</p>
+              <p>You can also review this article for more details on the matter: <a href="https://medium.com/@tezos_91823/benefits-and-risks-of-home-baking-a631c9ca745" target="_blank">Benefits and Risks of Home Baking</a>.</p>
+            </div>
           </div>
         </div>
         
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading5">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
@@ -286,7 +290,7 @@ ga('send', 'pageview');
           </div>
         </div>
         
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading6">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
@@ -297,13 +301,13 @@ ga('send', 'pageview');
           <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
             <div class="panel-body lead px-3 mb-3">
               <p>Tezos Panda schedule is to pay out delegation awards every cycle when rewards are delivered to the baker.</p>
-			  <p>With the current economic rules of the Tezos protocol, baking power is calculated in the snapshot of N-7 cycle. For the next 5 cycles rewards are locked by Tezos. So the first payment will be done after 12 cycles following delegation cycle.</p>
-			  <p>If at some point you will decide to switch to the other delegation service you’ll receive from us payments for all cycles you were with Tezos Panda.</p>
+              <p>With the current economic rules of the Tezos protocol, baking power is calculated in the snapshot of N-7 cycle. For the next 5 cycles rewards are locked by Tezos. So the first payment will be done after 12 cycles following delegation cycle.</p>
+              <p>If at some point you will decide to switch to the other delegation service you’ll receive from us payments for all cycles you were with Tezos Panda.</p>
             </div>
           </div>
         </div>
         
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading7">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
@@ -317,9 +321,9 @@ ga('send', 'pageview');
             </div>
           </div>
         </div>
-			
+            
        
-		<div class="panel panel-default">
+        <div class="panel panel-default">
           <div class="panel-heading p-3 mb-3" role="tab" id="heading8">
             <h4 class="panel-title font-italic">
               <a class="collapsed" role="button" title="" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="true" aria-controls="collapse8">
@@ -345,7 +349,7 @@ ga('send', 'pageview');
         <h2 class="mb-4">About us</h2>
             <p class="lead">Tezos Panda is the team of professionals with IT / Investment banking background and early adopters of crypto world.<br>We concentrate on providing a reliable and secure delegation service.</p>
             <p class="lead">Our goal is to contribute to the Tezos ecosystem and transform delegation into something transparent, simple and profitable.<br>You can use our delegation service as an alternative to running your own node.</p>
-			<hr class="star-dark mb-0">
+            <hr class="star-dark mb-0">
       </div>
     </section>
 
