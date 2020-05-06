@@ -4120,8 +4120,8 @@
 		}
 	
 		_fnClearTable( settings );
-		settings._iRecordsTotal   = parseInt(recordsTotal, 10);
-		settings._iRecordsDisplay = parseInt(recordsFiltered, 10);
+		settings._iRecordsTotal   = parseInt(recordsTotal, 12);
+		settings._iRecordsDisplay = parseInt(recordsFiltered, 12);
 	
 		for ( var i=0, ien=data.length ; i<ien ; i++ ) {
 			_fnAddData( settings, data[i] );
