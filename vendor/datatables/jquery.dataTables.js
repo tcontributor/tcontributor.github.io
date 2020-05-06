@@ -13641,7 +13641,7 @@
 		 *  @type int
 		 *  @default 10
 		 */
-		"_iDisplayLength": 10,
+		"_iDisplayLength": 12,
 	
 		/**
 		 * Paging start point - aiDisplay index
