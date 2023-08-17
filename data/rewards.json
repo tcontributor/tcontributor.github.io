@@ -10,6 +10,1680 @@
   ],
   "data": [
     [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1coTNqAz1GRtCaLEG67rAx2qATieRTTnDj",
+      825752.53,
+      375.24,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1P6oweMHfPgoVxdm1ASW4tLKr4iqamBbQJ",
+      229255.2,
+      104.18,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1TkfqbuAn7rfFrY9ZTfeFDo8YwGEfzuUM1",
+      198649.7,
+      90.27,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1UZyNwzBoTWtEhGnNPJoaun2ntXkp2CZe1",
+      159913.23,
+      72.67,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1heh5cNnBUjiZsa4WNPeK5iHWcW9GiZcgb",
+      149049.64,
+      67.73,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1G94YQPRqj3F3yztJ8hCwpPg5Max4e9yyq",
+      84457.95,
+      38.38,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1MBJW5YfQ7ECxk9ogQfd7zVFyrDJPH7Amj",
+      65952.45,
+      29.97,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1FMerLL4wrWhaoFWeKoJNbhFTkgkKghoiC",
+      65187.92,
+      29.62,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1DqKe3traUkXw96nXiAkcumcgvjs1Tc4Yr",
+      64615.81,
+      29.36,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1cXU2JN4Hr38oqa1QzrKc3Nt8KPtSQQTXS",
+      61866.82,
+      28.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1QJYyYSGEfDqTJNwtJFYL3b5FHw4Bq8Va2",
+      55014.82,
+      25.0,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1iMykLayXhU7tx8A4axmaW34NiwLxsTkPX",
+      46866.75,
+      21.3,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1TrhvyseSErBeq52usrGV8381PaYUV9dVs",
+      42819.03,
+      19.46,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YbVR1jjM7VjMi3t3FMgbgQisUWt28h5Tt",
+      42266.92,
+      19.21,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1Kt3xJwi2i1N5TVY6htBb3vZShaxRTEU1t",
+      37787.04,
+      17.17,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1W4BQYD5eie4vQJn5HPN2P2sw1Xx8aZnQE",
+      36419.28,
+      16.55,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1RYXFJ5hXwuACmXKxyTvw5zqMVwNpJY5Uh",
+      31193.63,
+      14.17,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZJfpAEqd65shPBBUxi5NtBNiMUS4LKXd8",
+      30970.08,
+      14.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1SEegkg7z5BfkehebSjNsbPQmnP2pAb5m3",
+      27846.71,
+      12.65,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1d415d1B4Rx45MdnjCMsH16jMRCxznA51T",
+      26818.89,
+      12.19,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1h8LFDkXcmAzyria2kCRhZWEg5K6GthKG2",
+      19004.84,
+      8.64,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1TL2Zb6NpyjDpCpFTvTSM9tChiDK5LvDdV",
+      17066.45,
+      7.76,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1UgQDH6wouwNu1b1zdB6EenoEQ3xNcJ7mf",
+      11501.38,
+      5.23,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1fWS3sGSqFmuaWeMH36RWZ4pQ2ybwawLVN",
+      11435.86,
+      5.2,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZsSRbwEJZHupPgjLprNeG1JP7zF7J6JJ4",
+      10659.71,
+      4.84,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1TYB23fnh9zZG3U1Mh1Tm3fPVEHUDqJW6H",
+      10430.12,
+      4.74,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1XWSdVkYcXY4Yz9qj4hBWJruE1g69QkENv",
+      9434.51,
+      4.29,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1gUbuqbSXFFyvKZsSYcYuoQKNdeg3paBDm",
+      9099.41,
+      4.13,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1MXE2o7q3Pju9g9J3FbpyWe8ym2mRnTAYx",
+      8886.05,
+      4.04,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1XgFuWc25uzYLG4KsRhe8UinPbNDFL3ca9",
+      7899.96,
+      3.59,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1N3oihBtz791GRUh3sauDe8p2XJaCoy9rv",
+      7892.51,
+      3.59,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1gxKUxsJBh9GCGEnSUEm72qkpmMJDTyzus",
+      7892.49,
+      3.59,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1VcqnxedXrHCHNp4xjsvTYtFeb7b8jXymb",
+      7708.7,
+      3.5,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1DQCbK1AqqxgWwZ2aKrRXQuwqhwFNEkwvS",
+      7568.48,
+      3.44,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1NRvW4ayvKr5bELFfJSfWMrvxb4jKMpUyr",
+      7492.54,
+      3.4,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1XFJdNVZVZ1FnALFfDb3HZ3aZgbQW4Fqgp",
+      6898.96,
+      3.14,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1f6v187f4LWyFXNuqJcMS55TxNvwhWTdSR",
+      6347.69,
+      2.88,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZWGBV2jjFbXcQo5Eppg2bZpKTBxiU8w5F",
+      6256.14,
+      2.84,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1QD1mvbXjb3imaQf1JsJDwR9uuu177cePs",
+      5835.04,
+      2.65,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1VfGV3y6DXNFzJ77X8n71vTBUqrmLjFiww",
+      5628.6,
+      2.56,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LffpG7YpmBqQvRS7oYNG6hRnMKGZqRoXP",
+      5123.65,
+      2.33,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bjwtcKnNoaFSzz36AE38hJ8DaRZ41QwA8",
+      4820.3,
+      2.19,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Vcpc9bcL1bhVqHFEo2bpJATbz9N5kVQUM",
+      4762.58,
+      2.16,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1Efebe5eJvYk6kThS4DQvekn83uYzNRUKu",
+      4626.03,
+      2.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1QDaHQLMnbP3QaaJKHov4sd76PoFjz2qBn",
+      3994.47,
+      1.82,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1UDyQtoLKjVaeiGcK4AA6tMQbTq5haA2SP",
+      3915.92,
+      1.78,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1NsyvGQse13NbQDTZmYbLjJPRPpvwunPgB",
+      3831.35,
+      1.74,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1W5tvyKoVUJUDvZ6DthGg3Frzfvyi6Nntm",
+      3521.22,
+      1.6,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1AJ9HQtZ9Kxr7SR9oE4AU16LfDRrDQNog6",
+      3146.0,
+      1.43,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT18vA2hMZup3LSQK9kywSdCmtEu7iQTe4WA",
+      3117.66,
+      1.42,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1id1zjpmGheaH18ppdaQKgHc3yy6xoXHS8",
+      3106.27,
+      1.41,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1i9FL3ZUdcw25hJfs5Tb92CCxq5RPd2NhE",
+      2826.11,
+      1.28,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1V145ARtBx26j1rLeTWye2kL36kd63AABX",
+      2796.0,
+      1.27,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1UAYyexSkZqFnR3BnuiAWxyXhY5Ha49Roc",
+      2658.41,
+      1.21,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1MHBwXyRwfmbRXD7QC26WanUjKJuayPJRX",
+      2626.88,
+      1.19,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bC2vem3nAA2CE6RtZ5LAnBd3yzktCiCuC",
+      2438.72,
+      1.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1GHR8iFVRafUN3vZf7WdJ45Yy26fzHNN2b",
+      2283.37,
+      1.04,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1EjNx5HpjSxPPLmLCpw9xWUKpGkso1MpsF",
+      2216.45,
+      1.01,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1BsXmKpHxFjam4er362KoK8WYnu8rL4SR5",
+      2188.06,
+      0.99,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1MxHmkuRC7v6qpHeDDNQ2YyX3xPewbCBGz",
+      2122.18,
+      0.96,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1hyN2v3NdKB2kTACwiuMYBJ9VC14iBzpUy",
+      2100.25,
+      0.95,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1CSBWVRBV9hEi8VBxmXKZCTUy8X8ttiMUo",
+      2087.52,
+      0.95,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1VmiE881GL8qR6vEvJNgk5P8JJTpGycLyF",
+      2053.7,
+      0.93,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1ExMdBB9i66HkBCu9DkXPeSRGCh1VweBiq",
+      1964.66,
+      0.89,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1DKJURX82oPk5CG5PpDKL1o2pMnskYQmA1",
+      1957.07,
+      0.89,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1eU5JW7EgR3zXCtcNGEvF9YNUc87HjnpTS",
+      1915.26,
+      0.87,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1UCBf4VHbfcawWmn15DHwufzCC5BQLiDLB",
+      1834.1,
+      0.83,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1UGguQ4p6gU2fVCZoNXjzjzFjPUnVTcMWU",
+      1831.75,
+      0.83,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1b1rcoifc6XERhzsTh9q3oSxUMYmPBTDX9",
+      1795.95,
+      0.82,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1PQiBZFcXbF853LudmYB5tHn1tPENrcUvA",
+      1613.67,
+      0.73,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1TGG37zWPPhkPTVYdyW9HEYDpwZzfZ6tzE",
+      1608.92,
+      0.73,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1CpgqAtUG8BfUyohxkkBKpbhNpWPKK8yek",
+      1603.85,
+      0.73,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1EXB3oZJPVMQVEpCq88osph4MT7kuXX2Qe",
+      1545.36,
+      0.7,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1QUwgrbx9L7hirqiS9DwWeQrfvTH5KvkJP",
+      1527.26,
+      0.69,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1FJEVHztkSer1WWJfcoHUgVDs8tfxohNvA",
+      1499.87,
+      0.68,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1i4AQMriygMahxDR7o8h7XiKhbmBXhBkYA",
+      1417.8,
+      0.64,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1gZChht67NXLq39jXUP7N9aXDraJ5F2fXx",
+      1390.17,
+      0.63,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1KpRvF39QHLPY71ZD55e1cz5jzwDLnP6Yg",
+      1360.29,
+      0.62,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1LZ8crQqWY797JWAyHyiGu2wQcmdg5ny1D",
+      1308.77,
+      0.59,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1inow23B6YYutJ7hZfvjGAbBrzZSYWMuT1",
+      1292.14,
+      0.59,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1iP3mT1iBTCDPPMaMQxesbUhkFrGvzsSMD",
+      1279.35,
+      0.58,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1MxSVS6jkar4XWaMup78NqBKmigcVgcWD8",
+      1261.82,
+      0.57,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1VCwnwTZhFSYJVQcyj3eSUeFYXU9JYi3t3",
+      1255.74,
+      0.57,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1iFguMw26hyMKmTKHTzkCVPLVoV3jVnk7S",
+      1248.25,
+      0.57,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1WZknVsSAwj8StidS9UaQjLbAR8DtaoFDT",
+      1209.15,
+      0.55,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1SyLemsDfmWtAg38oNPPF8XDTnpjxsFKTT",
+      1194.38,
+      0.54,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1PhN7QqMgi9cdGNwx5WxsrUicgQmFdh4mw",
+      1116.31,
+      0.51,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Ws4foiya7T7brxxSFoDrxF8ZXcn3GFe7d",
+      1097.0,
+      0.5,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1MLN8UtWw45k1BxEKnoPFiB1JsQpBGZi2j",
+      1033.97,
+      0.47,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ekDPhT8E8eJm4rz5Y6bknt2TeaS2X7bGm",
+      1024.84,
+      0.47,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Wff5tjragGjxMyDcjmAbZHoM2vcmkYaAR",
+      1009.0,
+      0.46,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1apaqgVUHuZoGWv99H2sHdJocPpitxaXxm",
+      1005.89,
+      0.46,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1TRccdoexgdkFPFxxJ5vvn2ofuPRnWpm6y",
+      1005.4,
+      0.46,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1gvfxwAEgLjuDAMeY23PirzKesMm7Ma9hB",
+      965.72,
+      0.44,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1c9z4qGje65u9GxwpQBeVyGXfZuqhtXXnP",
+      955.77,
+      0.43,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZYjSczHBdzzU58nBxriaNPH4wrEkNRXFo",
+      946.62,
+      0.43,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1J46hjcv6ub9m86Lvy1i7hvNMX6dJ2vqBp",
+      944.42,
+      0.43,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1iHotqsb3kjDpE7PECDdZmgK7dV4aKSEKT",
+      936.07,
+      0.43,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YTcS47s1sgLetFY6ebHtCtdqPQCG7Ju8e",
+      921.49,
+      0.42,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1PzVwusyinWJ8wbzgVQkdSBbE3fqbborPP",
+      889.08,
+      0.4,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1igZwoNBGm3ndmwpJfbJKyjyckQoT7D8CL",
+      871.78,
+      0.4,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1djxLnPVGFnR3H1wY7K1TRoMzgcsitQHff",
+      869.36,
+      0.4,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1JPCCRy1vvfmE3ZMjXKiMR3xpeCYwYhEnW",
+      853.5,
+      0.39,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bK9AGD7hoErTw3SJsrgKnL1PePhh2p5ck",
+      824.26,
+      0.37,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1Pp9z3F2FGyUQnDGvUTtWG6uzHipKaexyz",
+      819.01,
+      0.37,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1VGTnA7KDnCHn1niFnQ6ybKqphparw6yVq",
+      809.85,
+      0.37,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1UjAd3mAEaSKCNYYg8eRYemMPKC5j3d8Dw",
+      799.06,
+      0.36,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1cdHwxxjUaQKmmYZYwcS26oG6bZoy3wbDS",
+      775.17,
+      0.35,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1V7F9ZkCdFHEVxyydiNUw2KuGCPqDiY2kj",
+      754.13,
+      0.34,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1B15Rm4XwdZfjqxmiLMiCjXbJaC875okm7",
+      745.49,
+      0.34,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1TfPwmAQ2EifA7sWb4XA1ZcTRHfQvqWuKb",
+      714.79,
+      0.32,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Uytqmzy64V2ob8rW7Vd8qqa3PCEM9xv1A",
+      692.64,
+      0.31,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1RvxXWKCeRAuN3HXqapyf5LKxYVVdRqfKa",
+      683.24,
+      0.31,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1NDTK9qnxwxvUQbmEyGyMWb7rBmvewXgHo",
+      634.97,
+      0.29,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Nx42XM6pzBSzHJbWT32EpM3pyGxj7zk7a",
+      620.4,
+      0.28,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1PmstSW2LCLfcxMdgQu7c2sWwg6CLhjFzu",
+      616.98,
+      0.28,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1VtYecg3LwE4gTitSh3LDAWjVf3BikWLN1",
+      600.03,
+      0.27,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LrweRRQ6DPNhHgbi2Xy1BrA9yxhBCLKpF",
+      589.28,
+      0.27,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1U8LnobjurrF4gs4zgY3yQR4yzVe3FZ6cs",
+      584.81,
+      0.27,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LGTqT2iHXg5Xm2eBe1PU3oqrzGL49TKBe",
+      517.11,
+      0.23,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZShSXwQvkezNQEeTvXWyznqqmG5FyGKsc",
+      509.2,
+      0.23,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZNNtkf8dD9TzQLCN4ugR19TfHHkhjqF4e",
+      508.78,
+      0.23,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1MUoZemsVWQsFn6ahnomQ72wz6weQfngd4",
+      504.6,
+      0.23,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1cxHzY6JPQN1YufEquYtGnA1TT8r3EtgZT",
+      488.43,
+      0.22,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1W1uNKMUH8gXsFBnZrmK2eZdeoarZAfsLn",
+      478.17,
+      0.22,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1PxMcirhFdVY5BAdbYMyEJGh5rDQc5Xd6J",
+      478.03,
+      0.22,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1TcZN7sqEWZW9xbfaXAZzoDiNToR2JNVoB",
+      465.23,
+      0.21,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1BxzsMoZywRw1gV496nekg4JPVmVApFhMV",
+      459.65,
+      0.21,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1HpGz3q7NvZhw2F16eUbXJcYnuKJVpTEGD",
+      449.17,
+      0.2,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1dd865an4GHtxVQ13zsqdMt9gF1gRTWTyv",
+      437.52,
+      0.2,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1cdf9moyn21q4ZCo9sUPFkrM9Zrv3JvFxE",
+      436.71,
+      0.2,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YykjayGb5Xw94qKQfJwRbCXD5XCjckgFB",
+      435.53,
+      0.2,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Z2BNMzr1gKDCxxwdjv4N1YjAt38YNvDnt",
+      422.34,
+      0.19,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1StSY9XBE8K7nzU5N9fqNjxBAcoUij6PRe",
+      419.95,
+      0.19,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LoeVdVgN2HThhyDCrTQyywZRWdMpvJ51t",
+      418.88,
+      0.19,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1asCJDxSXFGGByZfhCuziDLbbDcwPDYuCY",
+      371.99,
+      0.17,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1gpczkyjWbwnnUrucwDCgGxGGdJNXuCfN1",
+      354.27,
+      0.16,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YpU37VTRf4iVYR9mvMrAz7xFwtEBfi8yw",
+      336.32,
+      0.15,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bLiijhrTxJCQiVmuW9a4obZv1eaMuFiPd",
+      330.81,
+      0.15,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LWPaAEVC4XvuuK9WZDdotMqghgFxrMpK8",
+      308.6,
+      0.14,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1HxmK7ZJtt2JBCcfnRceYNEjrnx3MaRn1g",
+      303.91,
+      0.14,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1QKjX1FBETwrEdXyamjLXXzAkzMP2cuaNW",
+      300.07,
+      0.14,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1NjPX8T9rCSCngLnQh2Vv9fCpGceGtZspk",
+      281.4,
+      0.13,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1Rm1jesQX8E5raJEXgrv9KmPqypAjsMh1w",
+      275.04,
+      0.12,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Wa2oTpy47CiRMtL5ajUsSxhnx2MRRhGQw",
+      273.64,
+      0.12,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LZ3iuXHC3kKU7bAyDxqRZNV6XggJ1jNmy",
+      271.06,
+      0.12,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1dVCX2wiww1pksu1pwdFtuWEr9reiPwJCu",
+      263.14,
+      0.12,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1dcZUxANP4jN3vuJCe3jJEK2VQBTY625jj",
+      248.44,
+      0.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1RdyXKwHX6PiQbFZzTX9QsSgWf94TQUJ59",
+      243.64,
+      0.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1iZEG2hSsBNVMp24WKeuMVj71TzbLD7Q6Q",
+      237.68,
+      0.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1dN2ytenUtaixxerg4Zy1GXJ89aokovZCu",
+      236.75,
+      0.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1NeoCAGR69K6ZJQTtsV9BMT8peY4pmeWpf",
+      231.48,
+      0.11,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1SE1bNSaxKtW9R3yR7jkkqpYfLEG4nFbv8",
+      227.71,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YUTdc51cTYpPHzt6cRNe1DEwh6TEUGXxA",
+      225.54,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1QMSmrLEYypoWGcFB4zqaBDAhQCuZVw6fG",
+      223.3,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1iJuB3t1815VBxEFg9D3xMikgbpQd8hP3M",
+      219.86,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bhB4KKMCKaDaFfromZN7T1BAaXWtyR3jd",
+      215.06,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1S8BT6PGwa5JFVaZYCamzXfhuecwDGgnMH",
+      213.51,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1RgWtYZ6vJFNbz81dGMSirsqyF8YXBdSTm",
+      212.96,
+      0.1,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LoYgRob9ZTb3v4YXMBtcuacDXmNiGDYLi",
+      201.25,
+      0.09,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1Hy6NhyZtZ4YZwzE7G5VqgkuHXopxagjC8",
+      192.2,
+      0.09,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1XTa9CVouP5CFUMhcB5oeTa82iC2x4sb3b",
+      176.52,
+      0.08,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LXmyzwLgcrGuSAHt9DDWVRSxRtyyG5YVX",
+      173.98,
+      0.08,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1BYyRmghHdWK3ryjwQg6jCMR83ijpo4NJs",
+      173.96,
+      0.08,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Tc1gWzNkNxoyK8SiyjhfFhuKBBeRUoTtQ",
+      167.45,
+      0.08,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bCsKpdto3m1wvMdhgep97N85a8twThTjS",
+      164.9,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1W9wBxjhZXv6UywmCKARuwyY95pZndUiZY",
+      161.98,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1AGPcg3aPtjpHFurYR1qpDFoLhsm3EQ7Pi",
+      160.62,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1PyhHTZAXNUBepaKNy2nLrs3MFeyQGHzjD",
+      158.81,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1NsaTj9GcWf9JD3TZLZFCDDMSzgWVguL5t",
+      152.89,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1UjAVjQu2c6eMBAePnqaaeEU49sk8HLRBb",
+      149.11,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1gZ5bdLHrjL5fAb7YFchZhgizBPcXM9KYn",
+      148.35,
+      0.07,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1hG7nYhRAeyqFG2dZRBULBCK2gtbthi5CS",
+      140.3,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YZKsDX4z5kFUJQWmKXwsBxa8ixAEyPqsb",
+      131.83,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1PNeTswn8tMPG2FwsbYrHF5Wk1nWJscdoQ",
+      131.6,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1MVvT2QmVBmk9YJL4PDeSa8dAXn8JyuPt6",
+      130.63,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1YuZ2ZfNbLgT67BPK1Vw2QtJHyz4eDCwM1",
+      129.53,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZZvnqtcmgdf4YKFTnVi9Cg1XEiueLCmBr",
+      123.37,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bQWMqmDxoFXNh8JENdKkT3oxsJLia3Vxi",
+      122.35,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1bMyCpZgWZvxCDdEubcQpQRmw7r5yUYXiz",
+      121.73,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1TiwiEP4v8ZKVX6hZpEbrSf5xeitBUoATW",
+      121.64,
+      0.06,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LMrW898JaaquXv6WXRVGskzrjYgm8dQxG",
+      119.53,
+      0.05,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "KT1DYfvummLb3We9qfyQ5MUpp4ksuHvRDEZn",
+      119.32,
+      0.05,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1Nh5YGHYcNW4KuDC56zt8vbpJ7gfpdPX8z",
+      116.98,
+      0.05,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1LExTSHr2Ae7uZCsjEtt4aRqfh2cexy3Kq",
+      111.69,
+      0.05,
+      "Estimated"
+    ],
+    [
+      646,
+      3111840.51,
+      1571.19,
+      "tz1ZKjHfnw7pWTkfJMwGguDBqr6vngFH68ci",
+      101.41,
+      0.05,
+      "Estimated"
+    ],
+    [
       645,
       3110543.43,
       1421.51,
@@ -6762,1703 +8436,1703 @@
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1coTNqAz1GRtCaLEG67rAx2qATieRTTnDj",
       824568.12,
-      392.27,
-      "Estimated"
+      389.56,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1P6oweMHfPgoVxdm1ASW4tLKr4iqamBbQJ",
       228926.38,
-      108.91,
-      "Estimated"
+      108.15,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1TkfqbuAn7rfFrY9ZTfeFDo8YwGEfzuUM1",
       192428.93,
-      91.54,
-      "Estimated"
+      90.91,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1UZyNwzBoTWtEhGnNPJoaun2ntXkp2CZe1",
       159683.86,
-      75.97,
-      "Estimated"
+      75.44,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1heh5cNnBUjiZsa4WNPeK5iHWcW9GiZcgb",
       148835.85,
-      70.81,
-      "Estimated"
+      70.32,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1G94YQPRqj3F3yztJ8hCwpPg5Max4e9yyq",
       84336.81,
-      40.12,
-      "Estimated"
+      39.84,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1MBJW5YfQ7ECxk9ogQfd7zVFyrDJPH7Amj",
       65857.85,
-      31.33,
-      "Estimated"
+      31.11,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1FMerLL4wrWhaoFWeKoJNbhFTkgkKghoiC",
       65094.42,
-      30.97,
-      "Estimated"
+      30.75,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1DqKe3traUkXw96nXiAkcumcgvjs1Tc4Yr",
       64523.13,
-      30.7,
-      "Estimated"
+      30.48,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1NxGtHkcWeyceZ1iFvHvPvDzEc6rbUVUPJ",
       61706.98,
-      29.36,
-      "Estimated"
+      29.15,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Sg4iiTTjLjVWGno2MZ7nYCHL9KE81gUfL",
       54859.12,
-      26.1,
-      "Estimated"
+      25.92,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1iMykLayXhU7tx8A4axmaW34NiwLxsTkPX",
       46799.53,
-      22.26,
-      "Estimated"
+      22.11,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1TrhvyseSErBeq52usrGV8381PaYUV9dVs",
       42757.62,
-      20.34,
-      "Estimated"
+      20.2,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YbVR1jjM7VjMi3t3FMgbgQisUWt28h5Tt",
       42206.29,
-      20.08,
-      "Estimated"
+      19.94,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1Kt3xJwi2i1N5TVY6htBb3vZShaxRTEU1t",
       37732.84,
-      17.95,
-      "Estimated"
+      17.83,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1W4BQYD5eie4vQJn5HPN2P2sw1Xx8aZnQE",
       36367.05,
-      17.3,
-      "Estimated"
+      17.18,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1RYXFJ5hXwuACmXKxyTvw5zqMVwNpJY5Uh",
       31148.89,
-      14.82,
-      "Estimated"
+      14.72,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZJfpAEqd65shPBBUxi5NtBNiMUS4LKXd8",
       30925.66,
-      14.71,
-      "Estimated"
+      14.61,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1SEegkg7z5BfkehebSjNsbPQmnP2pAb5m3",
       27796.02,
-      13.22,
-      "Estimated"
+      13.13,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1d415d1B4Rx45MdnjCMsH16jMRCxznA51T",
       26780.42,
-      12.74,
-      "Estimated"
+      12.65,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1h8LFDkXcmAzyria2kCRhZWEg5K6GthKG2",
       18977.58,
-      9.03,
-      "Estimated"
+      8.97,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1TL2Zb6NpyjDpCpFTvTSM9tChiDK5LvDdV",
       17041.97,
-      8.11,
-      "Estimated"
+      8.05,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1UgQDH6wouwNu1b1zdB6EenoEQ3xNcJ7mf",
       11484.89,
-      5.46,
-      "Estimated"
+      5.43,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1fWS3sGSqFmuaWeMH36RWZ4pQ2ybwawLVN",
       11419.46,
-      5.43,
-      "Estimated"
+      5.4,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZsSRbwEJZHupPgjLprNeG1JP7zF7J6JJ4",
       10644.42,
-      5.06,
-      "Estimated"
+      5.03,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1TYB23fnh9zZG3U1Mh1Tm3fPVEHUDqJW6H",
       10415.16,
-      4.95,
-      "Estimated"
+      4.92,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1XWSdVkYcXY4Yz9qj4hBWJruE1g69QkENv",
       9420.98,
-      4.48,
-      "Estimated"
+      4.45,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1gUbuqbSXFFyvKZsSYcYuoQKNdeg3paBDm",
       9086.36,
-      4.32,
-      "Estimated"
+      4.29,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1MXE2o7q3Pju9g9J3FbpyWe8ym2mRnTAYx",
       8873.3,
-      4.22,
-      "Estimated"
+      4.19,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1XgFuWc25uzYLG4KsRhe8UinPbNDFL3ca9",
       7888.63,
-      3.75,
-      "Estimated"
+      3.73,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1N3oihBtz791GRUh3sauDe8p2XJaCoy9rv",
       7881.19,
-      3.75,
-      "Estimated"
+      3.72,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1gxKUxsJBh9GCGEnSUEm72qkpmMJDTyzus",
       7881.17,
-      3.75,
-      "Estimated"
+      3.72,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1VcqnxedXrHCHNp4xjsvTYtFeb7b8jXymb",
       7697.64,
-      3.66,
-      "Estimated"
+      3.64,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1DQCbK1AqqxgWwZ2aKrRXQuwqhwFNEkwvS",
       7557.63,
-      3.6,
-      "Estimated"
+      3.57,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1NRvW4ayvKr5bELFfJSfWMrvxb4jKMpUyr",
       7481.79,
-      3.56,
-      "Estimated"
+      3.53,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1XFJdNVZVZ1FnALFfDb3HZ3aZgbQW4Fqgp",
       6889.07,
-      3.28,
-      "Estimated"
+      3.25,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1f6v187f4LWyFXNuqJcMS55TxNvwhWTdSR",
       6338.58,
-      3.02,
-      "Estimated"
+      2.99,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZWGBV2jjFbXcQo5Eppg2bZpKTBxiU8w5F",
       6247.16,
-      2.97,
-      "Estimated"
+      2.95,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1QD1mvbXjb3imaQf1JsJDwR9uuu177cePs",
       5826.67,
-      2.77,
-      "Estimated"
+      2.75,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1VfGV3y6DXNFzJ77X8n71vTBUqrmLjFiww",
       5620.52,
-      2.67,
-      "Estimated"
+      2.66,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LffpG7YpmBqQvRS7oYNG6hRnMKGZqRoXP",
       5193.38,
-      2.47,
-      "Estimated"
+      2.45,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bjwtcKnNoaFSzz36AE38hJ8DaRZ41QwA8",
       4813.39,
-      2.29,
-      "Estimated"
+      2.27,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Vcpc9bcL1bhVqHFEo2bpJATbz9N5kVQUM",
       4755.75,
-      2.26,
-      "Estimated"
+      2.25,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1Efebe5eJvYk6kThS4DQvekn83uYzNRUKu",
       4619.39,
-      2.2,
-      "Estimated"
+      2.18,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1QDaHQLMnbP3QaaJKHov4sd76PoFjz2qBn",
       3988.74,
-      1.9,
-      "Estimated"
+      1.88,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1UDyQtoLKjVaeiGcK4AA6tMQbTq5haA2SP",
       3910.3,
-      1.86,
-      "Estimated"
+      1.85,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1NsyvGQse13NbQDTZmYbLjJPRPpvwunPgB",
       3825.86,
-      1.82,
-      "Estimated"
+      1.81,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1W5tvyKoVUJUDvZ6DthGg3Frzfvyi6Nntm",
       3516.17,
-      1.67,
-      "Estimated"
+      1.66,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1AJ9HQtZ9Kxr7SR9oE4AU16LfDRrDQNog6",
       3141.49,
-      1.49,
-      "Estimated"
+      1.48,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT18vA2hMZup3LSQK9kywSdCmtEu7iQTe4WA",
       3113.19,
-      1.48,
-      "Estimated"
+      1.47,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1id1zjpmGheaH18ppdaQKgHc3yy6xoXHS8",
       3101.81,
-      1.48,
-      "Estimated"
+      1.47,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1i9FL3ZUdcw25hJfs5Tb92CCxq5RPd2NhE",
       2822.05,
-      1.34,
-      "Estimated"
+      1.33,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1V145ARtBx26j1rLeTWye2kL36kd63AABX",
       2791.98,
-      1.33,
-      "Estimated"
+      1.32,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1UAYyexSkZqFnR3BnuiAWxyXhY5Ha49Roc",
       2654.59,
-      1.26,
-      "Estimated"
+      1.25,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1MHBwXyRwfmbRXD7QC26WanUjKJuayPJRX",
       2623.11,
-      1.25,
-      "Estimated"
+      1.24,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bC2vem3nAA2CE6RtZ5LAnBd3yzktCiCuC",
       2435.22,
-      1.16,
-      "Estimated"
+      1.15,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1GHR8iFVRafUN3vZf7WdJ45Yy26fzHNN2b",
       2280.09,
       1.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1EjNx5HpjSxPPLmLCpw9xWUKpGkso1MpsF",
       2213.27,
       1.05,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1BsXmKpHxFjam4er362KoK8WYnu8rL4SR5",
       2184.93,
-      1.04,
-      "Estimated"
+      1.03,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1MxHmkuRC7v6qpHeDDNQ2YyX3xPewbCBGz",
       2119.14,
-      1.01,
-      "Estimated"
+      1.0,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1hyN2v3NdKB2kTACwiuMYBJ9VC14iBzpUy",
       2097.24,
-      1.0,
-      "Estimated"
+      0.99,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1CSBWVRBV9hEi8VBxmXKZCTUy8X8ttiMUo",
       2084.52,
-      0.99,
-      "Estimated"
+      0.98,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1VmiE881GL8qR6vEvJNgk5P8JJTpGycLyF",
       2050.76,
-      0.98,
-      "Estimated"
+      0.97,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1ExMdBB9i66HkBCu9DkXPeSRGCh1VweBiq",
       1961.84,
       0.93,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1DKJURX82oPk5CG5PpDKL1o2pMnskYQmA1",
       1954.27,
-      0.93,
-      "Estimated"
+      0.92,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1eU5JW7EgR3zXCtcNGEvF9YNUc87HjnpTS",
       1912.51,
-      0.91,
-      "Estimated"
+      0.9,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1UCBf4VHbfcawWmn15DHwufzCC5BQLiDLB",
       1831.47,
       0.87,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1UGguQ4p6gU2fVCZoNXjzjzFjPUnVTcMWU",
       1829.12,
-      0.87,
-      "Estimated"
+      0.86,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1b1rcoifc6XERhzsTh9q3oSxUMYmPBTDX9",
       1793.38,
       0.85,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1PQiBZFcXbF853LudmYB5tHn1tPENrcUvA",
       1611.36,
-      0.77,
-      "Estimated"
+      0.76,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1TGG37zWPPhkPTVYdyW9HEYDpwZzfZ6tzE",
       1606.62,
       0.76,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1CpgqAtUG8BfUyohxkkBKpbhNpWPKK8yek",
       1601.55,
       0.76,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1EXB3oZJPVMQVEpCq88osph4MT7kuXX2Qe",
       1543.15,
       0.73,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1QUwgrbx9L7hirqiS9DwWeQrfvTH5KvkJP",
       1525.07,
-      0.73,
-      "Estimated"
+      0.72,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1FJEVHztkSer1WWJfcoHUgVDs8tfxohNvA",
       1497.72,
       0.71,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1i4AQMriygMahxDR7o8h7XiKhbmBXhBkYA",
       1415.77,
       0.67,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1gZChht67NXLq39jXUP7N9aXDraJ5F2fXx",
       1388.18,
       0.66,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1KpRvF39QHLPY71ZD55e1cz5jzwDLnP6Yg",
       1358.33,
-      0.65,
-      "Estimated"
+      0.64,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1LZ8crQqWY797JWAyHyiGu2wQcmdg5ny1D",
       1306.89,
       0.62,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1inow23B6YYutJ7hZfvjGAbBrzZSYWMuT1",
       1290.28,
       0.61,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1iP3mT1iBTCDPPMaMQxesbUhkFrGvzsSMD",
       1277.51,
-      0.61,
-      "Estimated"
+      0.6,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1MxSVS6jkar4XWaMup78NqBKmigcVgcWD8",
       1260.01,
       0.6,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1VCwnwTZhFSYJVQcyj3eSUeFYXU9JYi3t3",
       1253.94,
-      0.6,
-      "Estimated"
+      0.59,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1iFguMw26hyMKmTKHTzkCVPLVoV3jVnk7S",
       1246.46,
       0.59,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1WZknVsSAwj8StidS9UaQjLbAR8DtaoFDT",
       1207.41,
       0.57,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1SyLemsDfmWtAg38oNPPF8XDTnpjxsFKTT",
       1192.67,
-      0.57,
-      "Estimated"
+      0.56,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Ws4foiya7T7brxxSFoDrxF8ZXcn3GFe7d",
       1095.43,
       0.52,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1MLN8UtWw45k1BxEKnoPFiB1JsQpBGZi2j",
       1032.49,
       0.49,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ekDPhT8E8eJm4rz5Y6bknt2TeaS2X7bGm",
       1023.37,
-      0.49,
-      "Estimated"
+      0.48,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Wff5tjragGjxMyDcjmAbZHoM2vcmkYaAR",
       1007.55,
       0.48,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1apaqgVUHuZoGWv99H2sHdJocPpitxaXxm",
       1004.45,
-      0.48,
-      "Estimated"
+      0.47,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1TRccdoexgdkFPFxxJ5vvn2ofuPRnWpm6y",
       1003.96,
-      0.48,
-      "Estimated"
+      0.47,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1gvfxwAEgLjuDAMeY23PirzKesMm7Ma9hB",
       964.33,
       0.46,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1c9z4qGje65u9GxwpQBeVyGXfZuqhtXXnP",
       954.39,
       0.45,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZYjSczHBdzzU58nBxriaNPH4wrEkNRXFo",
       945.26,
       0.45,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1J46hjcv6ub9m86Lvy1i7hvNMX6dJ2vqBp",
       943.07,
       0.45,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1iHotqsb3kjDpE7PECDdZmgK7dV4aKSEKT",
       934.73,
       0.44,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YTcS47s1sgLetFY6ebHtCtdqPQCG7Ju8e",
       920.17,
-      0.44,
-      "Estimated"
+      0.43,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1PzVwusyinWJ8wbzgVQkdSBbE3fqbborPP",
       887.8,
       0.42,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1igZwoNBGm3ndmwpJfbJKyjyckQoT7D8CL",
       870.52,
       0.41,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1djxLnPVGFnR3H1wY7K1TRoMzgcsitQHff",
       868.11,
       0.41,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1JPCCRy1vvfmE3ZMjXKiMR3xpeCYwYhEnW",
       852.28,
-      0.41,
-      "Estimated"
+      0.4,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bK9AGD7hoErTw3SJsrgKnL1PePhh2p5ck",
       823.08,
       0.39,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1Pp9z3F2FGyUQnDGvUTtWG6uzHipKaexyz",
       817.83,
       0.39,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1VGTnA7KDnCHn1niFnQ6ybKqphparw6yVq",
       808.69,
       0.38,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1UjAd3mAEaSKCNYYg8eRYemMPKC5j3d8Dw",
       797.91,
       0.38,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1cdHwxxjUaQKmmYZYwcS26oG6bZoy3wbDS",
       774.05,
       0.37,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1PhN7QqMgi9cdGNwx5WxsrUicgQmFdh4mw",
       773.51,
       0.37,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1V7F9ZkCdFHEVxyydiNUw2KuGCPqDiY2kj",
       753.05,
       0.36,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1B15Rm4XwdZfjqxmiLMiCjXbJaC875okm7",
       744.42,
       0.35,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Uytqmzy64V2ob8rW7Vd8qqa3PCEM9xv1A",
       731.65,
       0.35,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1TfPwmAQ2EifA7sWb4XA1ZcTRHfQvqWuKb",
       713.76,
       0.34,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1RvxXWKCeRAuN3HXqapyf5LKxYVVdRqfKa",
       682.26,
       0.32,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1NDTK9qnxwxvUQbmEyGyMWb7rBmvewXgHo",
       634.06,
       0.3,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Nx42XM6pzBSzHJbWT32EpM3pyGxj7zk7a",
       619.51,
       0.29,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1PmstSW2LCLfcxMdgQu7c2sWwg6CLhjFzu",
       616.1,
       0.29,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1VtYecg3LwE4gTitSh3LDAWjVf3BikWLN1",
       599.17,
-      0.29,
-      "Estimated"
+      0.28,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LrweRRQ6DPNhHgbi2Xy1BrA9yxhBCLKpF",
       588.43,
       0.28,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1U8LnobjurrF4gs4zgY3yQR4yzVe3FZ6cs",
       583.97,
       0.28,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LGTqT2iHXg5Xm2eBe1PU3oqrzGL49TKBe",
       516.37,
-      0.25,
-      "Estimated"
+      0.24,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZShSXwQvkezNQEeTvXWyznqqmG5FyGKsc",
       508.47,
       0.24,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZNNtkf8dD9TzQLCN4ugR19TfHHkhjqF4e",
       508.05,
       0.24,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1MUoZemsVWQsFn6ahnomQ72wz6weQfngd4",
       503.88,
       0.24,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1cxHzY6JPQN1YufEquYtGnA1TT8r3EtgZT",
       487.73,
       0.23,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1PxMcirhFdVY5BAdbYMyEJGh5rDQc5Xd6J",
       477.34,
       0.23,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1W1uNKMUH8gXsFBnZrmK2eZdeoarZAfsLn",
       473.58,
-      0.23,
-      "Estimated"
+      0.22,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1TcZN7sqEWZW9xbfaXAZzoDiNToR2JNVoB",
       464.57,
       0.22,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1BxzsMoZywRw1gV496nekg4JPVmVApFhMV",
       458.99,
       0.22,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1HpGz3q7NvZhw2F16eUbXJcYnuKJVpTEGD",
       448.53,
       0.21,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1dd865an4GHtxVQ13zsqdMt9gF1gRTWTyv",
       436.89,
       0.21,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1cdf9moyn21q4ZCo9sUPFkrM9Zrv3JvFxE",
       436.08,
       0.21,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YykjayGb5Xw94qKQfJwRbCXD5XCjckgFB",
       434.91,
       0.21,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Z2BNMzr1gKDCxxwdjv4N1YjAt38YNvDnt",
       421.73,
       0.2,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1StSY9XBE8K7nzU5N9fqNjxBAcoUij6PRe",
       419.35,
       0.2,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LoeVdVgN2HThhyDCrTQyywZRWdMpvJ51t",
       418.28,
       0.2,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1asCJDxSXFGGByZfhCuziDLbbDcwPDYuCY",
       371.45,
       0.18,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1gpczkyjWbwnnUrucwDCgGxGGdJNXuCfN1",
       353.76,
       0.17,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YpU37VTRf4iVYR9mvMrAz7xFwtEBfi8yw",
       335.83,
       0.16,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bLiijhrTxJCQiVmuW9a4obZv1eaMuFiPd",
       330.34,
       0.16,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LWPaAEVC4XvuuK9WZDdotMqghgFxrMpK8",
       308.16,
       0.15,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1HxmK7ZJtt2JBCcfnRceYNEjrnx3MaRn1g",
       303.47,
       0.14,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1QKjX1FBETwrEdXyamjLXXzAkzMP2cuaNW",
       299.64,
       0.14,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1NjPX8T9rCSCngLnQh2Vv9fCpGceGtZspk",
       281.0,
       0.13,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1Rm1jesQX8E5raJEXgrv9KmPqypAjsMh1w",
       274.64,
       0.13,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Wa2oTpy47CiRMtL5ajUsSxhnx2MRRhGQw",
       273.24,
       0.13,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LZ3iuXHC3kKU7bAyDxqRZNV6XggJ1jNmy",
       270.67,
       0.13,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1dVCX2wiww1pksu1pwdFtuWEr9reiPwJCu",
       262.76,
-      0.13,
-      "Estimated"
+      0.12,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1dcZUxANP4jN3vuJCe3jJEK2VQBTY625jj",
       248.09,
       0.12,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1RdyXKwHX6PiQbFZzTX9QsSgWf94TQUJ59",
       243.29,
-      0.12,
-      "Estimated"
+      0.11,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1iZEG2hSsBNVMp24WKeuMVj71TzbLD7Q6Q",
       237.34,
       0.11,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1dN2ytenUtaixxerg4Zy1GXJ89aokovZCu",
       236.41,
       0.11,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1NeoCAGR69K6ZJQTtsV9BMT8peY4pmeWpf",
       231.15,
       0.11,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1SE1bNSaxKtW9R3yR7jkkqpYfLEG4nFbv8",
       227.39,
       0.11,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YUTdc51cTYpPHzt6cRNe1DEwh6TEUGXxA",
       225.22,
       0.11,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1QMSmrLEYypoWGcFB4zqaBDAhQCuZVw6fG",
       222.98,
       0.11,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1iJuB3t1815VBxEFg9D3xMikgbpQd8hP3M",
       219.54,
       0.1,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bhB4KKMCKaDaFfromZN7T1BAaXWtyR3jd",
       214.76,
       0.1,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1S8BT6PGwa5JFVaZYCamzXfhuecwDGgnMH",
       213.2,
       0.1,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1RgWtYZ6vJFNbz81dGMSirsqyF8YXBdSTm",
       212.66,
       0.1,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LoYgRob9ZTb3v4YXMBtcuacDXmNiGDYLi",
       200.97,
-      0.1,
-      "Estimated"
+      0.09,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1Hy6NhyZtZ4YZwzE7G5VqgkuHXopxagjC8",
       191.92,
       0.09,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1XTa9CVouP5CFUMhcB5oeTa82iC2x4sb3b",
       176.27,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LXmyzwLgcrGuSAHt9DDWVRSxRtyyG5YVX",
       173.73,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1BYyRmghHdWK3ryjwQg6jCMR83ijpo4NJs",
       173.71,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bCsKpdto3m1wvMdhgep97N85a8twThTjS",
       164.66,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1W9wBxjhZXv6UywmCKARuwyY95pZndUiZY",
       161.75,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Tc1gWzNkNxoyK8SiyjhfFhuKBBeRUoTtQ",
       160.67,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1AGPcg3aPtjpHFurYR1qpDFoLhsm3EQ7Pi",
       160.39,
       0.08,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1PyhHTZAXNUBepaKNy2nLrs3MFeyQGHzjD",
       158.58,
-      0.08,
-      "Estimated"
+      0.07,
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1NsaTj9GcWf9JD3TZLZFCDDMSzgWVguL5t",
       152.67,
       0.07,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1UjAVjQu2c6eMBAePnqaaeEU49sk8HLRBb",
       148.89,
       0.07,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1gZ5bdLHrjL5fAb7YFchZhgizBPcXM9KYn",
       148.14,
       0.07,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1hG7nYhRAeyqFG2dZRBULBCK2gtbthi5CS",
       140.1,
       0.07,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YZKsDX4z5kFUJQWmKXwsBxa8ixAEyPqsb",
       131.64,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1PNeTswn8tMPG2FwsbYrHF5Wk1nWJscdoQ",
       131.41,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1MVvT2QmVBmk9YJL4PDeSa8dAXn8JyuPt6",
       130.44,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1YuZ2ZfNbLgT67BPK1Vw2QtJHyz4eDCwM1",
       129.34,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZZvnqtcmgdf4YKFTnVi9Cg1XEiueLCmBr",
       123.2,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bQWMqmDxoFXNh8JENdKkT3oxsJLia3Vxi",
       122.17,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1bMyCpZgWZvxCDdEubcQpQRmw7r5yUYXiz",
       121.56,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1TiwiEP4v8ZKVX6hZpEbrSf5xeitBUoATW",
       121.46,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LMrW898JaaquXv6WXRVGskzrjYgm8dQxG",
       119.36,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "KT1DYfvummLb3We9qfyQ5MUpp4ksuHvRDEZn",
       119.15,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1Nh5YGHYcNW4KuDC56zt8vbpJ7gfpdPX8z",
       116.82,
       0.06,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1L7JF1ghvTqoAkLiHD5Ze5EonsYAaD3pv4",
       112.49,
       0.05,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1LExTSHr2Ae7uZCsjEtt4aRqfh2cexy3Kq",
       111.53,
       0.05,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1QJYyYSGEfDqTJNwtJFYL3b5FHw4Bq8Va2",
       106.66,
       0.05,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1cXU2JN4Hr38oqa1QzrKc3Nt8KPtSQQTXS",
       106.66,
       0.05,
-      "Estimated"
+      "Paid"
     ],
     [
       641,
       3101349.9,
-      1639.33,
+      1628.01,
       "tz1ZKjHfnw7pWTkfJMwGguDBqr6vngFH68ci",
       101.27,
       0.05,
-      "Estimated"
+      "Paid"
     ],
     [
       640,
@@ -27033,1680 +28707,6 @@
       1528.68,
       "tz1cXU2JN4Hr38oqa1QzrKc3Nt8KPtSQQTXS",
       106.16,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1coTNqAz1GRtCaLEG67rAx2qATieRTTnDj",
-      820496.36,
-      355.88,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1P6oweMHfPgoVxdm1ASW4tLKr4iqamBbQJ",
-      227795.93,
-      98.8,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1TkfqbuAn7rfFrY9ZTfeFDo8YwGEfzuUM1",
-      192483.72,
-      83.49,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1UZyNwzBoTWtEhGnNPJoaun2ntXkp2CZe1",
-      158895.33,
-      68.92,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1heh5cNnBUjiZsa4WNPeK5iHWcW9GiZcgb",
-      148100.89,
-      64.24,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1G94YQPRqj3F3yztJ8hCwpPg5Max4e9yyq",
-      83920.35,
-      36.4,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1MBJW5YfQ7ECxk9ogQfd7zVFyrDJPH7Amj",
-      65532.64,
-      28.42,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1FMerLL4wrWhaoFWeKoJNbhFTkgkKghoiC",
-      64772.98,
-      28.09,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1DqKe3traUkXw96nXiAkcumcgvjs1Tc4Yr",
-      64204.51,
-      27.85,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1NxGtHkcWeyceZ1iFvHvPvDzEc6rbUVUPJ",
-      61402.27,
-      26.63,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Sg4iiTTjLjVWGno2MZ7nYCHL9KE81gUfL",
-      54588.22,
-      23.68,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1iMykLayXhU7tx8A4axmaW34NiwLxsTkPX",
-      46568.43,
-      20.2,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1TrhvyseSErBeq52usrGV8381PaYUV9dVs",
-      42546.48,
-      18.45,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YbVR1jjM7VjMi3t3FMgbgQisUWt28h5Tt",
-      41997.87,
-      18.22,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1Kt3xJwi2i1N5TVY6htBb3vZShaxRTEU1t",
-      37546.51,
-      16.29,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1W4BQYD5eie4vQJn5HPN2P2sw1Xx8aZnQE",
-      36187.46,
-      15.7,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1SEegkg7z5BfkehebSjNsbPQmnP2pAb5m3",
-      35121.79,
-      15.23,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1RYXFJ5hXwuACmXKxyTvw5zqMVwNpJY5Uh",
-      30995.07,
-      13.44,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZJfpAEqd65shPBBUxi5NtBNiMUS4LKXd8",
-      30772.95,
-      13.35,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1d415d1B4Rx45MdnjCMsH16jMRCxznA51T",
-      26698.12,
-      11.58,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1h8LFDkXcmAzyria2kCRhZWEg5K6GthKG2",
-      18883.87,
-      8.19,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1TL2Zb6NpyjDpCpFTvTSM9tChiDK5LvDdV",
-      16957.82,
-      7.36,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1UgQDH6wouwNu1b1zdB6EenoEQ3xNcJ7mf",
-      11428.17,
-      4.96,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1fWS3sGSqFmuaWeMH36RWZ4pQ2ybwawLVN",
-      11363.07,
-      4.93,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZsSRbwEJZHupPgjLprNeG1JP7zF7J6JJ4",
-      10591.85,
-      4.59,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1TYB23fnh9zZG3U1Mh1Tm3fPVEHUDqJW6H",
-      10363.73,
-      4.5,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1XWSdVkYcXY4Yz9qj4hBWJruE1g69QkENv",
-      9374.46,
-      4.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1gUbuqbSXFFyvKZsSYcYuoQKNdeg3paBDm",
-      9041.49,
-      3.92,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1MXE2o7q3Pju9g9J3FbpyWe8ym2mRnTAYx",
-      8829.49,
-      3.83,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1XgFuWc25uzYLG4KsRhe8UinPbNDFL3ca9",
-      7849.68,
-      3.4,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1N3oihBtz791GRUh3sauDe8p2XJaCoy9rv",
-      7842.27,
-      3.4,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1gxKUxsJBh9GCGEnSUEm72qkpmMJDTyzus",
-      7842.25,
-      3.4,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1VcqnxedXrHCHNp4xjsvTYtFeb7b8jXymb",
-      7659.63,
-      3.32,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1DQCbK1AqqxgWwZ2aKrRXQuwqhwFNEkwvS",
-      7520.31,
-      3.26,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1NRvW4ayvKr5bELFfJSfWMrvxb4jKMpUyr",
-      7444.85,
-      3.23,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1XFJdNVZVZ1FnALFfDb3HZ3aZgbQW4Fqgp",
-      6855.05,
-      2.97,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1f6v187f4LWyFXNuqJcMS55TxNvwhWTdSR",
-      6308.16,
-      2.74,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZWGBV2jjFbXcQo5Eppg2bZpKTBxiU8w5F",
-      6216.32,
-      2.7,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1QD1mvbXjb3imaQf1JsJDwR9uuu177cePs",
-      5797.89,
-      2.51,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1VfGV3y6DXNFzJ77X8n71vTBUqrmLjFiww",
-      5592.77,
-      2.43,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LffpG7YpmBqQvRS7oYNG6hRnMKGZqRoXP",
-      5167.74,
-      2.24,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bjwtcKnNoaFSzz36AE38hJ8DaRZ41QwA8",
-      4789.62,
-      2.08,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Vcpc9bcL1bhVqHFEo2bpJATbz9N5kVQUM",
-      4732.26,
-      2.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1Efebe5eJvYk6kThS4DQvekn83uYzNRUKu",
-      4596.58,
-      1.99,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1QDaHQLMnbP3QaaJKHov4sd76PoFjz2qBn",
-      3969.04,
-      1.72,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1UDyQtoLKjVaeiGcK4AA6tMQbTq5haA2SP",
-      3890.99,
-      1.69,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1NsyvGQse13NbQDTZmYbLjJPRPpvwunPgB",
-      3806.96,
-      1.65,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1W5tvyKoVUJUDvZ6DthGg3Frzfvyi6Nntm",
-      3498.8,
-      1.52,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1AJ9HQtZ9Kxr7SR9oE4AU16LfDRrDQNog6",
-      3125.98,
-      1.36,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT18vA2hMZup3LSQK9kywSdCmtEu7iQTe4WA",
-      3097.82,
-      1.34,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1id1zjpmGheaH18ppdaQKgHc3yy6xoXHS8",
-      3086.5,
-      1.34,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1i9FL3ZUdcw25hJfs5Tb92CCxq5RPd2NhE",
-      2808.12,
-      1.22,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1V145ARtBx26j1rLeTWye2kL36kd63AABX",
-      2778.2,
-      1.21,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1UAYyexSkZqFnR3BnuiAWxyXhY5Ha49Roc",
-      2641.48,
-      1.15,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1MHBwXyRwfmbRXD7QC26WanUjKJuayPJRX",
-      2610.16,
-      1.13,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bC2vem3nAA2CE6RtZ5LAnBd3yzktCiCuC",
-      2423.19,
-      1.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1GHR8iFVRafUN3vZf7WdJ45Yy26fzHNN2b",
-      2268.83,
-      0.98,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1EjNx5HpjSxPPLmLCpw9xWUKpGkso1MpsF",
-      2202.34,
-      0.96,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1BsXmKpHxFjam4er362KoK8WYnu8rL4SR5",
-      2174.14,
-      0.94,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1MxHmkuRC7v6qpHeDDNQ2YyX3xPewbCBGz",
-      2108.77,
-      0.91,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1hyN2v3NdKB2kTACwiuMYBJ9VC14iBzpUy",
-      2086.88,
-      0.91,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1CSBWVRBV9hEi8VBxmXKZCTUy8X8ttiMUo",
-      2074.23,
-      0.9,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1VmiE881GL8qR6vEvJNgk5P8JJTpGycLyF",
-      2040.63,
-      0.89,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1ExMdBB9i66HkBCu9DkXPeSRGCh1VweBiq",
-      1952.16,
-      0.85,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1DKJURX82oPk5CG5PpDKL1o2pMnskYQmA1",
-      1944.62,
-      0.84,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1eU5JW7EgR3zXCtcNGEvF9YNUc87HjnpTS",
-      1903.07,
-      0.83,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1UCBf4VHbfcawWmn15DHwufzCC5BQLiDLB",
-      1822.42,
-      0.79,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1UGguQ4p6gU2fVCZoNXjzjzFjPUnVTcMWU",
-      1820.09,
-      0.79,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1b1rcoifc6XERhzsTh9q3oSxUMYmPBTDX9",
-      1784.52,
-      0.77,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1PQiBZFcXbF853LudmYB5tHn1tPENrcUvA",
-      1603.4,
-      0.7,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1TGG37zWPPhkPTVYdyW9HEYDpwZzfZ6tzE",
-      1598.81,
-      0.69,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1CpgqAtUG8BfUyohxkkBKpbhNpWPKK8yek",
-      1593.64,
-      0.69,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1EXB3oZJPVMQVEpCq88osph4MT7kuXX2Qe",
-      1535.53,
-      0.67,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1QUwgrbx9L7hirqiS9DwWeQrfvTH5KvkJP",
-      1517.54,
-      0.66,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1FJEVHztkSer1WWJfcoHUgVDs8tfxohNvA",
-      1490.32,
-      0.65,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1i4AQMriygMahxDR7o8h7XiKhbmBXhBkYA",
-      1408.77,
-      0.61,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1gZChht67NXLq39jXUP7N9aXDraJ5F2fXx",
-      1381.32,
-      0.6,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1KpRvF39QHLPY71ZD55e1cz5jzwDLnP6Yg",
-      1351.63,
-      0.59,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1LZ8crQqWY797JWAyHyiGu2wQcmdg5ny1D",
-      1300.43,
-      0.56,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1inow23B6YYutJ7hZfvjGAbBrzZSYWMuT1",
-      1283.91,
-      0.56,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1iP3mT1iBTCDPPMaMQxesbUhkFrGvzsSMD",
-      1271.21,
-      0.55,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1MxSVS6jkar4XWaMup78NqBKmigcVgcWD8",
-      1253.79,
-      0.54,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1VCwnwTZhFSYJVQcyj3eSUeFYXU9JYi3t3",
-      1247.74,
-      0.54,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1iFguMw26hyMKmTKHTzkCVPLVoV3jVnk7S",
-      1240.3,
-      0.54,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1WZknVsSAwj8StidS9UaQjLbAR8DtaoFDT",
-      1201.45,
-      0.52,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1SyLemsDfmWtAg38oNPPF8XDTnpjxsFKTT",
-      1186.78,
-      0.51,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Ws4foiya7T7brxxSFoDrxF8ZXcn3GFe7d",
-      1090.02,
-      0.47,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1MLN8UtWw45k1BxEKnoPFiB1JsQpBGZi2j",
-      1027.39,
-      0.45,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ekDPhT8E8eJm4rz5Y6bknt2TeaS2X7bGm",
-      1018.31,
-      0.44,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1apaqgVUHuZoGWv99H2sHdJocPpitxaXxm",
-      1010.05,
-      0.44,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Wff5tjragGjxMyDcjmAbZHoM2vcmkYaAR",
-      1002.92,
-      0.44,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1TRccdoexgdkFPFxxJ5vvn2ofuPRnWpm6y",
-      999.0,
-      0.43,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1gvfxwAEgLjuDAMeY23PirzKesMm7Ma9hB",
-      959.57,
-      0.42,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1c9z4qGje65u9GxwpQBeVyGXfZuqhtXXnP",
-      949.68,
-      0.41,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1V7F9ZkCdFHEVxyydiNUw2KuGCPqDiY2kj",
-      948.6,
-      0.41,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZYjSczHBdzzU58nBxriaNPH4wrEkNRXFo",
-      940.59,
-      0.41,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1J46hjcv6ub9m86Lvy1i7hvNMX6dJ2vqBp",
-      938.41,
-      0.41,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1iHotqsb3kjDpE7PECDdZmgK7dV4aKSEKT",
-      930.12,
-      0.4,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YTcS47s1sgLetFY6ebHtCtdqPQCG7Ju8e",
-      915.66,
-      0.4,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1PzVwusyinWJ8wbzgVQkdSBbE3fqbborPP",
-      883.42,
-      0.38,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1igZwoNBGm3ndmwpJfbJKyjyckQoT7D8CL",
-      866.23,
-      0.38,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1djxLnPVGFnR3H1wY7K1TRoMzgcsitQHff",
-      863.82,
-      0.37,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1JPCCRy1vvfmE3ZMjXKiMR3xpeCYwYhEnW",
-      848.07,
-      0.37,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bK9AGD7hoErTw3SJsrgKnL1PePhh2p5ck",
-      819.01,
-      0.36,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1Pp9z3F2FGyUQnDGvUTtWG6uzHipKaexyz",
-      813.79,
-      0.35,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1VGTnA7KDnCHn1niFnQ6ybKqphparw6yVq",
-      804.69,
-      0.35,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1UjAd3mAEaSKCNYYg8eRYemMPKC5j3d8Dw",
-      793.97,
-      0.34,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1cdHwxxjUaQKmmYZYwcS26oG6bZoy3wbDS",
-      770.23,
-      0.33,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1PhN7QqMgi9cdGNwx5WxsrUicgQmFdh4mw",
-      769.69,
-      0.33,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1B15Rm4XwdZfjqxmiLMiCjXbJaC875okm7",
-      740.75,
-      0.32,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Uytqmzy64V2ob8rW7Vd8qqa3PCEM9xv1A",
-      728.04,
-      0.32,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1TfPwmAQ2EifA7sWb4XA1ZcTRHfQvqWuKb",
-      710.24,
-      0.31,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1RvxXWKCeRAuN3HXqapyf5LKxYVVdRqfKa",
-      679.0,
-      0.29,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1NDTK9qnxwxvUQbmEyGyMWb7rBmvewXgHo",
-      630.93,
-      0.27,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Nx42XM6pzBSzHJbWT32EpM3pyGxj7zk7a",
-      616.46,
-      0.27,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1PmstSW2LCLfcxMdgQu7c2sWwg6CLhjFzu",
-      613.05,
-      0.27,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1VtYecg3LwE4gTitSh3LDAWjVf3BikWLN1",
-      596.21,
-      0.26,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LrweRRQ6DPNhHgbi2Xy1BrA9yxhBCLKpF",
-      585.53,
-      0.25,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1U8LnobjurrF4gs4zgY3yQR4yzVe3FZ6cs",
-      581.09,
-      0.25,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LGTqT2iHXg5Xm2eBe1PU3oqrzGL49TKBe",
-      513.82,
-      0.22,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZShSXwQvkezNQEeTvXWyznqqmG5FyGKsc",
-      505.96,
-      0.22,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZNNtkf8dD9TzQLCN4ugR19TfHHkhjqF4e",
-      505.54,
-      0.22,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1MUoZemsVWQsFn6ahnomQ72wz6weQfngd4",
-      501.39,
-      0.22,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1cxHzY6JPQN1YufEquYtGnA1TT8r3EtgZT",
-      485.32,
-      0.21,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1PxMcirhFdVY5BAdbYMyEJGh5rDQc5Xd6J",
-      474.98,
-      0.21,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1TcZN7sqEWZW9xbfaXAZzoDiNToR2JNVoB",
-      462.27,
-      0.2,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1W1uNKMUH8gXsFBnZrmK2eZdeoarZAfsLn",
-      460.48,
-      0.2,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1BxzsMoZywRw1gV496nekg4JPVmVApFhMV",
-      456.72,
-      0.2,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1HpGz3q7NvZhw2F16eUbXJcYnuKJVpTEGD",
-      446.31,
-      0.19,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1dd865an4GHtxVQ13zsqdMt9gF1gRTWTyv",
-      434.73,
-      0.19,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1cdf9moyn21q4ZCo9sUPFkrM9Zrv3JvFxE",
-      433.93,
-      0.19,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YykjayGb5Xw94qKQfJwRbCXD5XCjckgFB",
-      432.76,
-      0.19,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Z2BNMzr1gKDCxxwdjv4N1YjAt38YNvDnt",
-      419.65,
-      0.18,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1StSY9XBE8K7nzU5N9fqNjxBAcoUij6PRe",
-      417.28,
-      0.18,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LoeVdVgN2HThhyDCrTQyywZRWdMpvJ51t",
-      416.22,
-      0.18,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1asCJDxSXFGGByZfhCuziDLbbDcwPDYuCY",
-      369.62,
-      0.16,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1gpczkyjWbwnnUrucwDCgGxGGdJNXuCfN1",
-      352.02,
-      0.15,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YpU37VTRf4iVYR9mvMrAz7xFwtEBfi8yw",
-      334.18,
-      0.14,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bLiijhrTxJCQiVmuW9a4obZv1eaMuFiPd",
-      328.7,
-      0.14,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LWPaAEVC4XvuuK9WZDdotMqghgFxrMpK8",
-      306.63,
-      0.13,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1HxmK7ZJtt2JBCcfnRceYNEjrnx3MaRn1g",
-      301.97,
-      0.13,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1QKjX1FBETwrEdXyamjLXXzAkzMP2cuaNW",
-      298.16,
-      0.13,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1NjPX8T9rCSCngLnQh2Vv9fCpGceGtZspk",
-      279.61,
-      0.12,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1Rm1jesQX8E5raJEXgrv9KmPqypAjsMh1w",
-      273.28,
-      0.12,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Wa2oTpy47CiRMtL5ajUsSxhnx2MRRhGQw",
-      271.9,
-      0.12,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LZ3iuXHC3kKU7bAyDxqRZNV6XggJ1jNmy",
-      269.34,
-      0.12,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1dVCX2wiww1pksu1pwdFtuWEr9reiPwJCu",
-      261.47,
-      0.11,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1dcZUxANP4jN3vuJCe3jJEK2VQBTY625jj",
-      246.86,
-      0.11,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1RdyXKwHX6PiQbFZzTX9QsSgWf94TQUJ59",
-      242.08,
-      0.11,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1iZEG2hSsBNVMp24WKeuMVj71TzbLD7Q6Q",
-      236.17,
-      0.1,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1dN2ytenUtaixxerg4Zy1GXJ89aokovZCu",
-      235.24,
-      0.1,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1NeoCAGR69K6ZJQTtsV9BMT8peY4pmeWpf",
-      230.01,
-      0.1,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1SE1bNSaxKtW9R3yR7jkkqpYfLEG4nFbv8",
-      226.26,
-      0.1,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YUTdc51cTYpPHzt6cRNe1DEwh6TEUGXxA",
-      224.11,
-      0.1,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1QMSmrLEYypoWGcFB4zqaBDAhQCuZVw6fG",
-      221.87,
-      0.1,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1iJuB3t1815VBxEFg9D3xMikgbpQd8hP3M",
-      218.46,
-      0.09,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bhB4KKMCKaDaFfromZN7T1BAaXWtyR3jd",
-      213.69,
-      0.09,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1S8BT6PGwa5JFVaZYCamzXfhuecwDGgnMH",
-      212.15,
-      0.09,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1RgWtYZ6vJFNbz81dGMSirsqyF8YXBdSTm",
-      211.61,
-      0.09,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LoYgRob9ZTb3v4YXMBtcuacDXmNiGDYLi",
-      199.97,
-      0.09,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1Hy6NhyZtZ4YZwzE7G5VqgkuHXopxagjC8",
-      190.97,
-      0.08,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1XTa9CVouP5CFUMhcB5oeTa82iC2x4sb3b",
-      175.4,
-      0.08,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LXmyzwLgcrGuSAHt9DDWVRSxRtyyG5YVX",
-      172.87,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1BYyRmghHdWK3ryjwQg6jCMR83ijpo4NJs",
-      172.85,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bCsKpdto3m1wvMdhgep97N85a8twThTjS",
-      163.85,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1W9wBxjhZXv6UywmCKARuwyY95pZndUiZY",
-      160.95,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1AGPcg3aPtjpHFurYR1qpDFoLhsm3EQ7Pi",
-      159.6,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1PyhHTZAXNUBepaKNy2nLrs3MFeyQGHzjD",
-      157.8,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1NsaTj9GcWf9JD3TZLZFCDDMSzgWVguL5t",
-      151.92,
-      0.07,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1UjAVjQu2c6eMBAePnqaaeEU49sk8HLRBb",
-      148.16,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1gZ5bdLHrjL5fAb7YFchZhgizBPcXM9KYn",
-      147.4,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1hG7nYhRAeyqFG2dZRBULBCK2gtbthi5CS",
-      139.4,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YZKsDX4z5kFUJQWmKXwsBxa8ixAEyPqsb",
-      130.99,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1PNeTswn8tMPG2FwsbYrHF5Wk1nWJscdoQ",
-      130.76,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1MVvT2QmVBmk9YJL4PDeSa8dAXn8JyuPt6",
-      129.8,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1YuZ2ZfNbLgT67BPK1Vw2QtJHyz4eDCwM1",
-      128.7,
-      0.06,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1ZZvnqtcmgdf4YKFTnVi9Cg1XEiueLCmBr",
-      122.59,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1bQWMqmDxoFXNh8JENdKkT3oxsJLia3Vxi",
-      121.57,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1TiwiEP4v8ZKVX6hZpEbrSf5xeitBUoATW",
-      120.86,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LMrW898JaaquXv6WXRVGskzrjYgm8dQxG",
-      118.77,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "KT1DYfvummLb3We9qfyQ5MUpp4ksuHvRDEZn",
-      118.56,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Nh5YGHYcNW4KuDC56zt8vbpJ7gfpdPX8z",
-      116.24,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1LExTSHr2Ae7uZCsjEtt4aRqfh2cexy3Kq",
-      110.98,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1Tc1gWzNkNxoyK8SiyjhfFhuKBBeRUoTtQ",
-      110.06,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1QJYyYSGEfDqTJNwtJFYL3b5FHw4Bq8Va2",
-      106.14,
-      0.05,
-      "Paid"
-    ],
-    [
-      629,
-      3092411.98,
-      1490.34,
-      "tz1cXU2JN4Hr38oqa1QzrKc3Nt8KPtSQQTXS",
-      106.14,
       0.05,
       "Paid"
     ]
